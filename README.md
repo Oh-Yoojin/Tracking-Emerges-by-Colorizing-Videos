@@ -1,18 +1,24 @@
 ## Tracking Emerges by Colorizing Videos
 #### Vondrick, C., Shrivastava, A., Fathi, A., Guadarrama, S., & Murphy, K. (2018). arXiv preprint arXiv:1806.09594.
 
-Tracking specific objects in the image is a very important skill, but it is quite difficult to make artificial intelligence visually track objects.
-Because collecting the large-scale tracking datasets necessary for high performance often requires extensive effort that is impractical and expensive.
+![01](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/01.PNG)
 
-###### This paper constrain the colorization model to solve this task by learning to copy colors from a reference frame.
+![02](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/02.PNG)
 
-##### Self-supervised Learning
+![03](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/03.PNG)
 
-![fig1](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/fig1.png)
+![04](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/04.PNG)
 
-It is video colorization as a self-supervised learning problem for visual tracking.
-Instead of trying to predict the color directly from the grayscale frame, It constrain the colorization model to solve this task by learning to copy colors from a reference frame.
+![05](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/05.PNG)
 
-![fig2](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/fig2.png)
+![06](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/06.PNG)
 
-![model](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/model.png)
+![07](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/07.PNG)
+
+![08](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/08.PNG)
+
+![09](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/09.PNG)
+
+![10](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/10.PNG)
+
+![11](https://github.com/Oh-Yoojin/Tracking-Emerges-by-Colorizing-Videos/blob/master/pictures/11.PNG)
